@@ -3,7 +3,16 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![WorkBuddy Skill](https://img.shields.io/badge/WorkBuddy-Skill-6e45e2.svg)](https://workbuddy.ai)
 
-全能命理占测 WorkBuddy Skill —— 八字排盘 · 星座星盘 · 周易占卜，一个 Skill 全搞定。
+融汇东西方玄学的全能占测工具——八字排盘、星座星盘、周易六爻、梅花易数，一应俱全。
+
+> ⚠️ **仅供娱乐消遣**，输出结果不代表真实命运走向。
+> 「天行健，君子以自强不息」——命理如镜，映照的是当下的可能性，而非既定的结局。凡事皆在人为，万物皆有可能。
+
+---
+
+*A comprehensive divination toolkit blending Eastern and Western mysticism — Bazi birth charts, Western astrology, I Ching hexagrams, and Plum Blossom numerology, all in one place.*
+
+> ⚠️ *For entertainment purposes only. Divination illuminates possibilities, not certainties. As the I Ching teaches: "Just as heaven keeps moving forward vigorously, a man of virtue should constantly strive for self-improvement." Your destiny is not written in the stars but shaped by your own hands. Everything is possible. (AI translation, may contain inaccuracies)*
 
 ## 能力覆盖
 
